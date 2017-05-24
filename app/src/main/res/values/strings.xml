@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Visit Ontario</string>
+
+    <!-- Tab Names -->
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_restaurants">Food</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_stadiums">Stadiums</string>
+
+    <!-- Landmarks -->
+    <string name="cn_tower">CN Tower</string>
+    <string name="cn_tower_address">301 Front St W, Toronto, ON</string>
+    <string name="niagara_falls">Niagara Falls</string>
+    <string name="niagara_falls_address">6650 Niagara Parkway, Niagara Falls, ON</string>
+    <string name="parliament_hill">Parliament Hill</string>
+    <string name="parliament_hill_address">Wellington St, Ottawa, ON</string>
+    <string name="royal_ontario_museum">Royal Ontario Museum</string>
+    <string name="royal_ontario_museum_address">100 Queens Park, Toronto, ON</string>
+    <string name="warplane_museum">Canadian Warplane Heritage Museum</string>
+    <string name="warplane_museum_address">9280 Airport Rd, Mount Hope, ON</string>
+    <string name="hockey_hall_of_fame">Hockey Hall of Fame</string>
+    <string name="hockey_hall_of_fame_address">30 Yonge St, Toronto, ON</string>
+    <string name="art_museum_of_ontario">Art Museum of Ontario</string>
+    <string name="art_museum_of_ontario_address">317 Dundas St W, Toronto, ON</string>
+    <string name="blue_mountains_resort">The Blue Mountains</string>
+    <string name="blue_mountains_resort_address">108 Jozo Weider Blvd, The Blue Mountains, ON</string>
+
+    <!-- Restaurants -->
+    <string name="alo">Alo</string>
+    <string name="alo_address">163 Spadina Ave, Toronto, ON</string>
+    <string name="scaramouche">Scaramouche</string>
+    <string name="scaramouche_address">1 Benvenuto Pl, Toronto, ON </string>
+    <string name="jacobs_steakhouse">Jacob\'s and Co. Steakhouse</string>
+    <string name="jacobs_steakhouse_address">12 Brant St, Toronto, ON</string>
+    <string name="elm_tree">The Elm Tree Restaurant</string>
+    <string name="elm_tree_address">43 Elm St, Toronto, ON</string>
+    <string name="fraser_cafe">Fraser Cafe</string>
+    <string name="fraser_cafe_address">7 Springfield Rd, Ottawa, ON </string>
+    <string name="next">NeXT</string>
+    <string name="next_address">6400 Hazeldean Rd, Stittsville, ON</string>
+    <string name="aroma_meze">Aroma Meze</string>
+    <string name="aroma_meze_address">239 Nepean St, Ottawa, ON</string>
+    <string name="ag">AG Inspired Cuisine</string>
+    <string name="ag_address">5195 Magdalen St, Niagara Falls, ON</string>
+    <string name="weinkeller">Weinkeller</string>
+    <string name="weinkeller_address">5633 Victoria Ave, Niagara Falls, ON</string>
+
+    <!-- Parks -->
+    <string name="algonquin">Algonquin Provincial Park</string>
+    <string name="algoquin_address">Hwy 60, ON</string>
+    <string name="awenda">Awenda Provincial Park</string>
+    <string name="awenda_address">670 Awenda Park Rd, Tiny, ON </string>
+    <string name="georgian_bay_islands">Georgian Bay Islands National Park</string>
+    <string name="georgian_bay_islands_address">2611 Honey Harbour Rd, Honey Harbour, ON</string>
+    <string name="petroglyph">Petroglyph Provincial Park</string>
+    <string name="petroglyph_address">2249 Northey\'s Bay Rd, Woodview, ON</string>
+    <string name="sandbanks">Sandbanks Provincial Park</string>
+    <string name="sandbanks_address">3004 County Rd 12, Picton, ON</string>
+    <string name="silent_lake">Silent Lake Provincial Park</string>
+    <string name="silent_lake_address">1589 Silent Lake Park Road, Bancroft, ON</string>
+    <string name="pinery">Pinery Provincial Park</string>
+    <string name="pinery_address">9526 Lakeshore Rd, Grand Bend, ON</string>
+    <string name="bruce_peninsula">Bruce Peninsula National Park</string>
+    <string name="bruce_peninsula_address">Bruce Peninsula National Park, Tobermory, ON</string>
+
+    <!-- Stadiums -->
+    <string name="rogers_centre">Roger Centre (Toronto Blue Jays)</string>
+    <string name="rogers_centre_address">1 Blue Jays Way, Toronto, ON </string>
+    <string name="air_canada_centre">Air Canada Centre (Toronto Raptors and Toronto Maple Leafs)</string>
+    <string name="air_canada_centre_address">40 Bay St, Toronto, ON</string>
+    <string name="bmo_field">BMO Field (Toronto FC and Toronto Argonauts)</string>
+    <string name="bmo_field_address">170 Princes\' Blvd, Toronto, ON </string>
+    <string name="canadian_tire_centre">Canadian Tire Centre (Ottawa Senators)</string>
+    <string name="canadian_tire_centre_address">1000 Palladium Dr, Ottawa, ON</string>
+    <string name="td_place_stadium">TD Place Stadium (Ottawa RedBlacks)</string>
+    <string name="td_place_stadium_address">1015 Bank St, Ottawa, ON</string>
+    <string name="tim_hortons_field">Tim Hortons Field (Hamilton Tiger-Cats)</string>
+    <string name="tim_hortons_field_address">64 Melrose Ave N, Hamilton, ON</string>
+</resources>
